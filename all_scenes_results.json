@@ -1,0 +1,552 @@
+[
+  {
+    "scene": 1,
+    "frame": 69,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 1,
+    "frame": 115,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 1,
+    "frame": 138,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 1,
+    "frame": 161,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 1,
+    "frame": 184,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 1,
+    "frame": 207,
+    "actor": "Zina"
+  },
+  {
+    "scene": 1,
+    "frame": 322,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 345,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 368,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 391,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 414,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 437,
+    "actor": "Zina"
+  },
+  {
+    "scene": 1,
+    "frame": 437,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 460,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 460,
+    "actor": "Zina"
+  },
+  {
+    "scene": 1,
+    "frame": 483,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 483,
+    "actor": "Zina"
+  },
+  {
+    "scene": 1,
+    "frame": 506,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 529,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 552,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 1,
+    "frame": 575,
+    "actor": "Zina"
+  },
+  {
+    "scene": 1,
+    "frame": 621,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 2,
+    "frame": 666,
+    "actor": "Lubovnirsa"
+  },
+  {
+    "scene": 2,
+    "frame": 689,
+    "actor": "Lubovnirsa"
+  },
+  {
+    "scene": 2,
+    "frame": 712,
+    "actor": "Lubovnirsa"
+  },
+  {
+    "scene": 3,
+    "frame": 715,
+    "actor": "Lubovnirsa"
+  },
+  {
+    "scene": 3,
+    "frame": 738,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 761,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 784,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 807,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 830,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 853,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 853,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 876,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 899,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 922,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 945,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 968,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 991,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 1014,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 1037,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1083,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1083,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1152,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1175,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1175,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 1198,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1221,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1244,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1267,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1290,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1313,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1336,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1359,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1359,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1382,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1382,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1405,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1428,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1451,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1451,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1474,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1474,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1497,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1497,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1543,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1566,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1566,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 1589,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1612,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1635,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1658,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1681,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1704,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1727,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1750,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1750,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1773,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1796,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1796,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1819,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1842,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1842,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1865,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 3,
+    "frame": 1911,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 3,
+    "frame": 1911,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1934,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 1957,
+    "actor": "Zina"
+  },
+  {
+    "scene": 3,
+    "frame": 2003,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 4,
+    "frame": 2049,
+    "actor": "Lubovnirsa"
+  },
+  {
+    "scene": 4,
+    "frame": 2072,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 4,
+    "frame": 2072,
+    "actor": "Zina"
+  },
+  {
+    "scene": 4,
+    "frame": 2072,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 4,
+    "frame": 2141,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 4,
+    "frame": 2164,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 4,
+    "frame": 2164,
+    "actor": "Zina"
+  },
+  {
+    "scene": 4,
+    "frame": 2187,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 4,
+    "frame": 2187,
+    "actor": "Zina"
+  },
+  {
+    "scene": 4,
+    "frame": 2210,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 4,
+    "frame": 2233,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 4,
+    "frame": 2256,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 4,
+    "frame": 2302,
+    "actor": "Zina"
+  },
+  {
+    "scene": 4,
+    "frame": 2302,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 4,
+    "frame": 2325,
+    "actor": "Zina"
+  },
+  {
+    "scene": 4,
+    "frame": 2325,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 4,
+    "frame": 2348,
+    "actor": "Zina"
+  },
+  {
+    "scene": 4,
+    "frame": 2348,
+    "actor": "Iakin"
+  },
+  {
+    "scene": 6,
+    "frame": 2549,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 6,
+    "frame": 2572,
+    "actor": "Tsar"
+  },
+  {
+    "scene": 6,
+    "frame": 2595,
+    "actor": "Tsar"
+  }
+]

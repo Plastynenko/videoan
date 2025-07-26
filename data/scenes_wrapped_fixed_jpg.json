@@ -1,0 +1,77 @@
+{
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 27.0,
+      "number": 1,
+      "scene_start": 0,
+      "scene_stop": 27,
+      "description": "Переодевают царя",
+      "image_link": "./scene_image/1.png",
+      "image_act_link": [
+        "./act_img/Царь.jpg",
+        "./act_img/Зина.jpg",
+        "./act_img/Якин.jpg"
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "number": 2,
+      "scene_start": 27,
+      "scene_stop": 30,
+      "description": "Разговаривает по телефону",
+      "image_link": "./scene_image/2.png",
+      "image_act_link": "./act_img/Любовница.jpg"
+    },
+    {
+      "start": 30.0,
+      "end": 85.0,
+      "number": 3,
+      "scene_start": 30,
+      "scene_stop": 85,
+      "description": "Прощаются с царем перед вылетом",
+      "image_link": "./scene_image/3.png",
+      "image_act_link": [
+        "./act_img/Царь.jpg",
+        "./act_img/Зина.jpg",
+        "./act_img/Якин.jpg"
+      ]
+    },
+    {
+      "start": 85.0,
+      "end": 99.0,
+      "number": 4,
+      "scene_start": 85,
+      "scene_stop": 99,
+      "description": "Разговаривает по телефону на фоне уезжающих",
+      "image_link": "./scene_image/4.png",
+      "image_act_link": [
+        "./act_img/Любовница.jpg",
+        "./act_img/Зина.jpg",
+        "./act_img/Якин.jpg",
+        "./act_img/Водитель.jpg"
+      ]
+    },
+    {
+      "start": 99.0,
+      "end": 105.0,
+      "number": 5,
+      "scene_start": 99,
+      "scene_stop": 105,
+      "description": "Выходит на балкон",
+      "image_link": "./scene_image/5.png",
+      "image_act_link": "./act_img/Царь.jpg"
+    },
+    {
+      "start": 105.0,
+      "end": 117.0,
+      "number": 6,
+      "scene_start": 105,
+      "scene_stop": 117,
+      "description": "Рассматривает город",
+      "image_link": "./scene_image/6.png",
+      "image_act_link": "./act_img/Царь.jpg"
+    }
+  ]
+}
